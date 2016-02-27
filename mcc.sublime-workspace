@@ -1,0 +1,851 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prnv",
+				"prnlev_low"
+			],
+			[
+				"prn",
+				"prnlev_low"
+			],
+			[
+				"prnlev",
+				"prnlev_low"
+			],
+			[
+				"T",
+				"T_EVB_Forces"
+			],
+			[
+				"T_EVB",
+				"T_EVB_Energy"
+			],
+			[
+				"time",
+				"timer_start"
+			],
+			[
+				"alloc",
+				"allocatable"
+			],
+			[
+				"Ky",
+				"KEY_DEBUG"
+			],
+			[
+				"DEBU",
+				"KEY_DEBUG"
+			],
+			[
+				"test",
+				"test_file"
+			],
+			[
+				"coml",
+				"coml	coml"
+			],
+			[
+				"com",
+				"coml	coml"
+			],
+			[
+				"INT",
+				"interface"
+			],
+			[
+				"inter",
+				"interface"
+			],
+			[
+				"Chm",
+				"CHM_REAL"
+			],
+			[
+				"evb",
+				"evb_subs"
+			],
+			[
+				"rcvd",
+				"rcvdz"
+			],
+			[
+				"QE",
+				"QENSEXP"
+			],
+			[
+				"mod",
+				"MODULE"
+			],
+			[
+				"chm",
+				"CHM_INT8"
+			],
+			[
+				"Su",
+				"SUBROUTINE"
+			],
+			[
+				"DE",
+				"DebugMode"
+			],
+			[
+				"sub",
+				"subroutine"
+			],
+			[
+				"max",
+				"maxloc	Index of Maximum"
+			],
+			[
+				"if",
+				"interf	interface"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mmc_search.py",
+			"settings":
+			{
+				"buffer_size": 2229,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Create Xiki Buffer"
+			],
+			[
+				"create ",
+				"Create Xiki Buffer"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"package Control add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synt c",
+				"Set Syntax: C"
+			],
+			[
+				"syn pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"synt fotr",
+				"Set Syntax: Fortran - Modern"
+			],
+			[
+				"synta for",
+				"Set Syntax: Fortran - Modern"
+			],
+			[
+				"syntax blad",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"fortr",
+				"Set Syntax: Fortran - Punchcard"
+			],
+			[
+				"syntax: fo",
+				"Set Syntax: Fortran - Modern"
+			],
+			[
+				"sid",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/validate.sh",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/generate_low.sh",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/err.1.high.check.inp",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/err.1.low.check.inp",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/err.2.high.check.inp",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/err.2.low.check.inp",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/err..low.check.inp",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/dyn.check.inp",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/print_compare.sh",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/test.sh",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/err.6.high.check.inp",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/err.7.high.check.inp",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/err.8.high.check.inp",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/err.5.high.check.inp",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/err.4.high.check.inp",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/err.3.high.check.inp",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/print.check.inp",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/validate_timer.sh",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/validate_print.sh",
+		"/Users/robert_arbon/Code/c41a2/source/util/string.src",
+		"/Users/robert_arbon/Code/c41a2/source/ensemble/ensemble.src",
+		"/Users/robert_arbon/Code/c41a2/source/energy/energy.src",
+		"/Users/robert_arbon/Code/c41a2/source/util/new_timer.src",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/timer.check.inp",
+		"/Users/robert_arbon/Code/c41a2/source/charmm/iniall.src",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/unit_tests.py",
+		"/Users/robert_arbon/Code/c41a2/source/ensemble/ensemble_ltm.src",
+		"/Users/robert_arbon/Code/c41a2/source/adumb/cmds.src",
+		"/Users/robert_arbon/Code/c41a2/source/charmm/charmm_main.src",
+		"/Users/robert_arbon/Code/c41a2/source/charmm/miscom.src",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/serial/dyn.check.inp",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/time_err_correlation.py",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/dyn.check.out",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/quick.sh",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/charmm.out.001",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/output/latest.gauss2d/traj_compare.0",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/output/latest.gauss2d/coords_0.0001_ps.0",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/fort.51",
+		"/Users/robert_arbon/Code/c41a2/source/ensemble/evb_ltm.src",
+		"/Users/robert_arbon/Code/charmmutils/README.md",
+		"/Users/robert_arbon/Code/charmmutils/charmmutils.py",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/serial/Analyse.py",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/serial/unit_tests.py",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/source/ensemble/ensemble_ltm.src",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/source/ensemble/ensemble.src",
+		"/Users/robert_arbon/Code/LearnCSharp/LearnCSharp/Program.cs",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/serial/charmmutils.py",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/sym.check.inp",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/evbtest/malonaldehyde/test/evb5.inp",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/evbtest/malonaldehyde/test/evb3.inp",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/evbtest/malonaldehyde/test/evb1.inp",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/evbtest/malonaldehyde/test/evb2.inp",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/evbtest/malonaldehyde/test/evb4.inp",
+		"/Users/robert_arbon/Code/c41a2/source/ltm/dimens_ltm.src",
+		"/Users/robert_arbon/Code/c41a2/source/ltm/chm_kinds_ltm.src",
+		"/Users/robert_arbon/Code/c41a2/source/energy/epmfmodule.src",
+		"/Users/robert_arbon/Code/c41a2/source/util/selcta.src",
+		"/Users/robert_arbon/Code/c41a2/source/memory/alloc_mod.src",
+		"/Users/robert_arbon/Code/evbtest_CHARMM/malonaldehyde/energy_check.sh",
+		"/Users/robert_arbon/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/robert_arbon/Code/c41a2/source/machdep/startup.src",
+		"/Users/robert_arbon/Code/c41a2/source/memory/memory_mod.src",
+		"/Users/robert_arbon/Code/c41a2/source/energy/energym.src",
+		"/Users/robert_arbon/Code/c41a2/source/memory/realloc_mod.src",
+		"/Users/robert_arbon/Code/c41a2/source/memory/dealloc_mod.src",
+		"/Users/robert_arbon/Code/c41a2/source/memory/deallocdat_ltm.src",
+		"/Users/robert_arbon/Code/c41a2/source/memory/alloccomp_mod.src",
+		"/Users/robert_arbon/Code/c41a2/source/energy/energy_util.src",
+		"/Users/robert_arbon/Code/c41a2/ChangeLogs/ChangeLog.c41",
+		"/Users/robert_arbon/Code/c41a2/source/manip/corsubs.src",
+		"/Users/robert_arbon/Code/c41a2/source/correl/proto.src",
+		"/Users/robert_arbon/Code/c41a2/source/manip/corman.src",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/source/ensemble/evb_ltm.src",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/source/energy/energy.src",
+		"/Users/robert_arbon/Code/c41a2/source/correl/anacor.src",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/evbtest/malonaldehyde/evb1.out.000",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/source/energy/energym.src",
+		"/Users/robert_arbon/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/source/dynamc/dynsub.src",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/source/charmm/charmm_main.src",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/source/correl/correl.src",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/cmake_build/parse.F90",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/source/correl/anacor.src",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/source/correl/proto.src",
+		"/Users/robert_arbon/Code/luckyy/source/manip/corman.src",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/source/util/parse.src",
+		"/Users/robert_arbon/Code/evb_test/evb_test_suite.py",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/evbtest/malonaldehyde/coor_force_check.py",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/tool/prefx.f90",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/configure",
+		"/Users/robert_arbon/Code/c41a1-dev/c41a1/CMakeLists.txt",
+		"/Users/robert_arbon/Dropbox (Personal)/RobertArbon.github.io/_data/categories.yml",
+		"/Users/robert_arbon/Dropbox (Personal)/RobertArbon.github.io/_posts/2016-02-06-fortran_memory.mdown",
+		"/Users/robert_arbon/Dropbox (Personal)/RobertArbon.github.io/_posts/2015-09-06-welcome-to-jekyll.txt",
+		"/Users/robert_arbon/Dropbox (Personal)/RobertArbon.github.io/_posts/remotemachines.markdown",
+		"/Users/robert_arbon/Dropbox (Personal)/RobertArbon.github.io/_posts/2015-09-06-welcome-to-jekyll.markdown",
+		"/Users/robert_arbon/Dropbox (Personal)/RobertArbon.github.io/.gitignore",
+		"/Users/robert_arbon/Downloads/daktilo-master 2/_config.yml",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/evbtest/ensemble_only/hexrex_ens.inp",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/evbtest/ensemble_only/run.sh",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/evbtest/ensemble_only/output/hexrex_ens.out.1.0",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/evbtest/ensemble_only/output/hexrex_ens.out.1.2",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/evbtest/ensemble_only/output/hexrex_ens.out.1.1",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/evbtest/ensemble_only/output/hexrex_ens.out.1.3",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/evbtest/ensemble_only/output/hexrex_ens.out",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/source/ensemble/ensemble.src",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/evbtest/ensemble_only/rex2_ens.inp",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/evbtest/ensemble_only/multi_ens.out.1.0",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/evbtest/ensemble_only/multi_ens.out.1.1",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/evbtest/ensemble_only/multi_ens.inp",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/evbtest/ensemble_only/out",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/source/ltm/stream_ltm.src",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/source/ltm/chm_kinds_ltm.src",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/evbtest/evb_code/run.sh",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/test/E_test_gnu_M_b/rex_ens.out",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/test/E_test_gnu_M_b/rex2_ens.out",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/test/E_test_gnu_M_b/multi_ens.out",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/source/ensemble/ensemble_ltm.src",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/source/charmm/charmm_main.src",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/source/util/string.src",
+		"/Users/robert_arbon/Dropbox (Personal)/Chemistry/code/rpmd_evb_stanford/test/EVB_RPMD_RC/scan.in",
+		"/Users/robert_arbon/Dropbox (Personal)/Chemistry/code/rpmd_evb_stanford/test/EVB_RPMD_RC/scan.log",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/source/io/rtfio.src",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/source/mmff/readpar.src",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/source/mmff/mmff.src",
+		"/Users/robert_arbon/mounts/c41a1-dev/c41a1/evbtest/evb_code/mmff0/mmffsymb.par",
+		"/Users/robert_arbon/Dropbox (Personal)/Chemistry/code/rpmd_evb_stanford/test/EVB_RPMD_RC/stream.inp",
+		"/Users/robert_arbon/Dropbox (Personal)/Chemistry/code/rpmd_evb_stanford/test/EVB_RPMD_RC/tmp"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/robert_arbon/Code/c41a2/source/",
+			"/Users/robert_arbon/Code/c41a2/source/ensemble/ensemble.src",
+			"/Users/robert_arbon/Code/c41a2/source/",
+			"/Users/robert_arbon/Code/c41a1-dev/c41a1/source/",
+			"/Users/robert_arbon/Code/luckyy/source/",
+			"/Users/robert_arbon/Code/c41a1-dev/c41a1/source/",
+			"/Users/robert_arbon/Code/c41a1-dev/c41a1/,-/Users/robert_arbon/Code/c41a1-dev/c41a1/cmake_build/*.",
+			"/Users/robert_arbon/Code/c41a1-dev/c41a1/,-*/Users/robert_arbon/Code/c41a1-dev/c41a1/cmake_build",
+			"/Users/robert_arbon/Code/c41a1-dev/c41a1/",
+			"/Users/robert_arbon/Code/c41a1-dev/c41a1/source",
+			"/Users/robert_arbon/mounts/c41a1-dev/c41a1/source",
+			"",
+			"/Users/robert_arbon/Dropbox (Personal)/Chemistry/code/c41a1-dev/c41a1/source",
+			"/Users/robert_arbon/Dropbox/Chemistry/code/luckyy/source"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"PRINTLEVELS",
+			"TIMESTEPS",
+			"wrndie",
+			"theta",
+			"ensemble>",
+			"ensemble",
+			"ensemble>",
+			"ensemble\\>",
+			"evb>",
+			"TIMESTEPS",
+			"TIMSTEPS",
+			"function gtrmi",
+			"function getrmi",
+			"ensexpu",
+			"rcdxdip",
+			"find_param",
+			"module param_store",
+			"get_param",
+			"subroutine get_param",
+			"ensexpu",
+			"[^\\(]prnlev",
+			"use[ a-zA-Z,]+only[ :a-zA-Z]*iolev",
+			"use[ a-zA-Z,]+only[ :a-zA-Z]*prnlev",
+			"use[ a-zA-Z]+only[ a-zA-Z]*prnlev",
+			"use[ a-z-A-Z]+only[ a-z-A-Z]*prnlev",
+			"prnlev",
+			"ensemble",
+			"\\t",
+			"else if",
+			"use evb_mod",
+			"timer_start",
+			"time_start",
+			"timer_stop",
+			"QEVB",
+			"timer_stop",
+			"QEVB",
+			"qevb",
+			"timer",
+			"use new_timer",
+			"\\(T_energy",
+			"T_energy",
+			"module new_timer",
+			"new_timer",
+			"chmalloc",
+			"SUBROUTINE STOPCH",
+			"'STOP'",
+			"\\'STOP\\'",
+			"chmalloc\\(.*ENSDX.*\\)",
+			"chmdealloc\\(.*ENSDX.*\\)",
+			"chmalloc\\(",
+			"chmalloc(",
+			"chmalloc(.*numbrxn.*)",
+			"chmalloc",
+			"chmdealloc(.*ensbuf.*)",
+			"chmdealloc",
+			"chmdealloc(*ensbuf*)",
+			"'chmdealloc('*'ensbuf'*')'",
+			"chmdealloc(*ensbuf*)",
+			"chmdealloc(*'ensbuf'*)",
+			"call chmdealloc(* 'ensbuf' *)",
+			"call chmdealloc(*'ensbuf'*)",
+			"ind",
+			"!\n",
+			"'[a-z0-9]+'",
+			"'[a-z]+'",
+			"'[a-z]'",
+			"'*'",
+			"'\\''*'\\''",
+			"\\'*\\'",
+			"'\\''[a-zA-Z]+'\\''",
+			"\\'[a-zA-Z]+\\'",
+			"'[a-zA-Z]+'",
+			"wrd",
+			"function nexta4(",
+			"subroutine nexta4(",
+			"dis1",
+			"kind",
+			"buflen",
+			"emslct",
+			"couprm",
+			"coutype",
+			"qevb",
+			"onedcrd",
+			"evbiidx",
+			"ch4=",
+			"chmalloc",
+			"module chm_kinds",
+			"chm_kinds",
+			"call",
+			"rcvh",
+			"rcvdz",
+			"rcvdy",
+			"rcvdx",
+			"QEVB",
+			"qevb",
+			"qevb ",
+			"nodeidx",
+			"itmp",
+			"ncouple",
+			"maxjj",
+			"maxii",
+			"gidx",
+			"ceidx",
+			"BUFLEN",
+			"buflen",
+			"evb",
+			"buflen",
+			"size_arg",
+			"call set_chsize",
+			"size_arg",
+			"maxaim",
+			"module dimens_",
+			"subroutine selcta",
+			"emslct",
+			"natom",
+			"maxaim",
+			"module dimens",
+			"evbjidx",
+			"evbijdx",
+			"subroutine proc_alloc_outpt",
+			"proc_alloc_outpt",
+			"evb",
+			"(T_energy)",
+			"subroutine timer_start",
+			"subroutine timer_stop",
+			"timer_stop",
+			"new_timer",
+			"timer_end"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"PRINTLEVELS",
+			"PRINTLEVELS\n",
+			"ensh",
+			"ensdz",
+			"ensdy",
+			"ensdx",
+			"!REA\n  write(*, *) 'REA> subroutine: ensini'\n!REA",
+			"!REA",
+			"write(*, *) 'REA>",
+			"  write(*, *) 'REA>",
+			"write(tbuf, '(a)') 'REA>",
+			"ensemble open ",
+			"ensemble open"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mmc_search.py",
+					"settings":
+					{
+						"buffer_size": 2229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"stream",
+				"source/ltm/stream_ltm.src"
+			],
+			[
+				"chm_kinds",
+				"source/ltm/chm_kinds_ltm.src"
+			],
+			[
+				"parse",
+				"Current-source/util/parse.src"
+			],
+			[
+				"ensem",
+				"Current-source/ensemble/ensemble_ltm.src"
+			],
+			[
+				"util",
+				"Current-source/util/util.src"
+			],
+			[
+				"",
+				"Current-source/ltm/exfunc_ltm.src"
+			],
+			[
+				"number",
+				"Old-source/fcm/number.fcm"
+			],
+			[
+				"coord.fcm",
+				"Old-source/fcm/coord.fcm"
+			],
+			[
+				"number.fcm",
+				"Old-source/fcm/number.fcm"
+			],
+			[
+				"energy.src",
+				"Current-source/energy/energy.src"
+			],
+			[
+				"parse.src",
+				"Current-source/util/parse.src"
+			],
+			[
+				"ensemble.fcm",
+				"Old-source/fcm/ensemble.fcm"
+			],
+			[
+				"heap.fcm",
+				"Old-source/fcm/heap.fcm"
+			],
+			[
+				"psf.fcm",
+				"Old-source/fcm/psf.fcm"
+			],
+			[
+				"stream.fcm",
+				"Old-source/fcm/stream.fcm"
+			],
+			[
+				"exfunc.fcm",
+				"Old-source/fcm/exfunc.fcm"
+			],
+			[
+				"dimens.fcm",
+				"Old-source/fcm/dimens.fcm"
+			],
+			[
+				"string",
+				"Current-source/util/string.src"
+			],
+			[
+				"coord",
+				"Current-source/ltm/coord_ltm.src"
+			],
+			[
+				"psf",
+				"Current-source/ltm/psf_ltm.src"
+			],
+			[
+				"exf",
+				"Current-source/ltm/exfunc_ltm.src"
+			],
+			[
+				"dimens",
+				"Current-source/ltm/dimens_ltm.src"
+			],
+			[
+				"ense",
+				"Current-source/ensemble/ensemble_ltm.src"
+			],
+			[
+				"mpi",
+				"SOURCE-current/mscale/interfaces/psi_mscale_interface.f90"
+			],
+			[
+				"heap",
+				"SOURCE-evb/fcm/heap.fcm"
+			],
+			[
+				"alloc",
+				"SOURCE-current/memory/alloc_mod.src"
+			],
+			[
+				"dealloc",
+				"SOURCE-current/memory/dealloc_mod.src"
+			],
+			[
+				"alloca",
+				"SOURCE-current/memory/allocdat_ltm.src"
+			],
+			[
+				"memory",
+				"SOURCE-current/memory/memory_mod.src"
+			],
+			[
+				"dimen",
+				"SOURCE-evb/fcm/dimens.fcm"
+			],
+			[
+				"chm",
+				"SOURCE-current/ltm/chm_kinds_ltm.src"
+			],
+			[
+				"energy",
+				"energy-current/energym.src"
+			],
+			[
+				"strea",
+				"SOURCE-evb/fcm/stream.fcm"
+			],
+			[
+				"coord.",
+				"SOURCE-evb/fcm/coord.fcm"
+			],
+			[
+				"heap.f",
+				"SOURCE-evb/fcm/heap.fcm"
+			],
+			[
+				"exfunc.",
+				"SOURCE-current/ltm/exfunc_ltm.src"
+			],
+			[
+				"exfunc.fc",
+				"SOURCE-evb/fcm/exfunc.fcm"
+			],
+			[
+				"ener",
+				"energy-current/energy.src"
+			],
+			[
+				"imp",
+				"SOURCE-evb/fcm/impnon.fcm"
+			],
+			[
+				"numbe",
+				"SOURCE-current/ltm/number_ltm.src"
+			],
+			[
+				"contr",
+				"SOURCE-current/ltm/contrl_ltm.src"
+			],
+			[
+				"contrl",
+				"SOURCE-evb/fcm/contrl.fcm"
+			],
+			[
+				"impnon",
+				"SOURCE-current/openmm/plugins/MonteCarloBarostat2/platforms/opencl/include/OpenCLCharmmKernelFactory.h"
+			],
+			[
+				"impo",
+				"SOURCE-evb/fcm/impnon.fcm"
+			],
+			[
+				"getmsr",
+				"SOURCE-current/ltm/gamess_ltm.src"
+			],
+			[
+				"contrl.fcm",
+				"SOURCE-evb/fcm/contrl.fcm"
+			],
+			[
+				"ensemble",
+				"SOURCE-current/ensemble/ensemble_ltm.src"
+			],
+			[
+				"ensemb",
+				"SOURCE-evb/fcm/ensemble.fcm"
+			],
+			[
+				"energym",
+				"energy-current/energym.src"
+			],
+			[
+				"ene",
+				"energy-evb/energy.src"
+			],
+			[
+				"eval.src",
+				"adumb/eval.src"
+			],
+			[
+				"energy.sr",
+				"energy/energy.src"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true
+}
