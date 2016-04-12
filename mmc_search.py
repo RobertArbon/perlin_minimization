@@ -94,7 +94,7 @@ def main(T_start, T_end, num_T_steps, num_iter, dx_ini):
 	Temps = np.linspace(T_start, T_end, num_T_steps)
 	results = np.empty([5, num_T_steps])
 	coors = []
-	x = random.uniform(-2, 0)
+	x = random.uniform(-2, -1)
 	dx = dx_ini	
 	for i in range(len(Temps)): 
 		T = Temps[i]
@@ -150,7 +150,7 @@ def print_results(results, xs):
 
 
 	
-T_start = 1e0
+T_start = 5e-1
 T_end = 1e-2
 num_T_steps = 10
 num_iter = 1000
@@ -213,6 +213,6 @@ def animate(i):
 
 anim = animation.FuncAnimation(fig, animate, init_func=init,
                                frames=num_frames, interval=1, blit=False)
-anim.save('MCMC_Sim_Ann_DoubleWell.mp4', fps=30, extra_args=['-vcodec', 'libx264'])
+# anim.save('MCMC_Sim_Ann_DoubleWell.mp4', fps=30, extra_args=['-vcodec', 'libx264'])
 
 fig.show()
